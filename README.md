@@ -1,1 +1,1 @@
-Searchable GitHub repo for the public domain videos from Applied Language Technology YouTube channel
+Searchable GitHub repo for the public domain videos from [Applied Language Technology](https://www.youtube.com/c/AppliedLanguageTechnology/videos) YouTube channel
